@@ -48,7 +48,6 @@ header {
 .intro-chunk p {
   font-size: 1.25rem;
   max-width: 350px;
-  width: fit-content;
 }
 
 .intro-chunk p > strong {
